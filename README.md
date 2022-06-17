@@ -3,7 +3,6 @@
 - 💡 típica serelepe ligada no 220;
 - 🏹 iniciando os estudos em JavaScript;
 - 📚 sempre bem acompanhada;
-- 📧 contacte-me via email: <anabia200113@gmail.com>.
 
 
 ☕ boas conexões e uma xícara caprichada de café (sem açúcar), por favor. 
