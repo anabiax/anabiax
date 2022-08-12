@@ -1,8 +1,7 @@
 - 🧡 Olá, tudo bem? Eu sou a AnaB;
 
 - 💡 Típica serelepe ligada no 220;
-- 🏹 Iniciando os estudos em JavaScript;
-- 📚 Sempre bem acompanhada;
+- 🏹 Iniciando os estudos em Java;
 
 
 ☕ Boas conexões e uma xícara caprichada de café (sem açúcar), por favor. 
