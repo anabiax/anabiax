@@ -1,6 +1,7 @@
 - 🧡 Olá, tudo bem? Eu sou a AnaB;
 
 - 💡 Típica serelepe ligada no 220;
+- 💻 Participante do bootcamp da Generation Brasil;
 - 🏹 Iniciando os estudos em Java;
 
 
