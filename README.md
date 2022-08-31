@@ -1,4 +1,4 @@
-- ### Olá, tudo bem? Eu sou a AnaB;
+### Olá, tudo bem? Eu sou a AnaB;
 
 - 💡 Participante do Ciclo Formativo Básico I em front-end da PretaLab;
 - 💻 Participante do bootcamp da Generation Brasil;
