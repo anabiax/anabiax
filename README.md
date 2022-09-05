@@ -14,7 +14,7 @@
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Rafa-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="rafaelq80-Java" height="50" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg"/>
-   <img align="center" alt="rafaelq80-Spring boot" height="30" width="40" src="https://img.icons8.com/color/48/000000/spring-logo.png"/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg" width="50px" height="40px"/>
 </div>
 
 ##
