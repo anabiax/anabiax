@@ -1,6 +1,5 @@
 <h1> Olá, tudo bem? Eu sou a AnaB </h1>
-<a href="https://www.linkedin.com/in/anabsantoss/" target="_blank">
-<img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo" />
+
 
 - 💡 Participante do Ciclo Formativo Básico I em front-end da PretaLab;
 - 💻 Participante do bootcamp da Generation Brasil;
@@ -21,4 +20,5 @@
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg" align="center" width="50px" height="40px"/>
 </div>
 
-
+<a href="https://www.linkedin.com/in/anabsantoss/" target="_blank">
+<img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo" />
