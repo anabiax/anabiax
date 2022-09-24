@@ -6,7 +6,7 @@
 
 <img align="right" width="350px" src="https://user-images.githubusercontent.com/105956403/192107569-dbd57f3c-59a2-4951-97ef-162d56a31d32.svg" >
 
-
+<br>
 ☕ Boas conexões e uma xícara caprichada de café (sem açúcar), por favor. 
 
 # Techs
@@ -20,6 +20,6 @@
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg" align="center" width="50px" height="40px"/>
 </div>
 
-##
+## Contato
 <a href="https://www.linkedin.com/in/anabsantoss/" target="_blank">
 <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo" />
