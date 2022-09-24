@@ -4,7 +4,7 @@
 - 💻 Participante do bootcamp da Generation Brasil;
 - 🏹 Iniciando os estudos em Java;
 
-<img align="right" width="400px" ![home-img](https://user-images.githubusercontent.com/105956403/192107569-dbd57f3c-59a2-4951-97ef-162d56a31d32.svg) >
+<img align="right" width="400px" src="https://user-images.githubusercontent.com/105956403/192107569-dbd57f3c-59a2-4951-97ef-162d56a31d32.svg" >
 
 
 ☕ Boas conexões e uma xícara caprichada de café (sem açúcar), por favor. 
