@@ -10,8 +10,6 @@
 
 ☕ Boas conexões e uma xícara caprichada de café (sem açúcar), por favor. 
 
-<br>
-
 ## Contatos
 <a href="https://www.linkedin.com/in/anabsantoss/" target="_blank">
 <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo" />
