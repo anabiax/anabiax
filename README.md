@@ -5,7 +5,6 @@
 - 🏹 Iniciando os estudos em Java;
 
 <img align="right" width="400px" src="file:///home/anasantos/Downloads/Programmer.png">
- file:///home/anasantos/Downloads/Programmer.png
 
 ☕ Boas conexões e uma xícara caprichada de café (sem açúcar), por favor. 
 
