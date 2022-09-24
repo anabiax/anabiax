@@ -4,7 +4,7 @@
 - 💻 Participante do bootcamp da Generation Brasil;
 - 🏹 Iniciando os estudos em Java;
 
-<img align="right" width="400px" src="file:///home/anasantos/Downloads/Programmer.png">
+<img align="right" width="400px" src="https://img.freepik.com/free-vector/female-designer-working-late-room-flat-illustration-cartoon-student-using-laptop-computer-night-sitting-desk_74855-14019.jpg?w=996&t=st=1664021406~exp=1664022006~hmac=6c9788fa3dfb81ddd85c6c936065f077b370c36bc08b6b8a3969db22fee9c330">
 
 ☕ Boas conexões e uma xícara caprichada de café (sem açúcar), por favor. 
 
