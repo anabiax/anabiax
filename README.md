@@ -4,6 +4,8 @@
 - 💻 Participante do bootcamp da Generation Brasil;
 - 🏹 Iniciando os estudos em Java;
 
+<img align="right" width="400px" src="./imgBackground.png">
+
 
 ☕ Boas conexões e uma xícara caprichada de café (sem açúcar), por favor. 
 
