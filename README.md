@@ -2,7 +2,7 @@
 
 - 💡 Participante do Ciclo Formativo Básico I em front-end da PretaLab;
 - 💻 Participante do bootcamp da Generation Brasil;
-- 🏹 Iniciando os estudos em Java;
+- 🏹 Iniciando os estudos em Java e Spring Boot;
 
 <img align="right" width="350px" src="https://user-images.githubusercontent.com/105956403/192107569-dbd57f3c-59a2-4951-97ef-162d56a31d32.svg" >
 
