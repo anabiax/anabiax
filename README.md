@@ -3,7 +3,6 @@
 - 💡 Formada pelo Ciclo Formativo Básico em tecnologia da PretaLab;
 - 💻 Participante do bootcamp Full Stack da Generation Brasil;
 - 📌 Entuasiasta das comunidades digitais compostas por mulheres em tech;
-- 🏹 Iniciando os estudos em arquitetura de front-end.
 
 <img align="right" width="350px" src="https://user-images.githubusercontent.com/105956403/192107569-dbd57f3c-59a2-4951-97ef-162d56a31d32.svg" >
 
