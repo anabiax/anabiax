@@ -1,4 +1,4 @@
-# Olá, tudo bem? Eu sou a AnaB
+# AnaB
 
 - 💡 Formada pelo Ciclo Formativo Básico em tecnologia da PretaLab;
 - 💻 Participante do bootcamp Full Stack Java da Generation Brasil;
