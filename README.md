@@ -2,26 +2,17 @@
 
 - 💡 Formada pelo Ciclo Formativo Básico em tecnologia da PretaLab;
 - 💻 Participante do bootcamp Full Stack Java da Generation Brasil;
+- 📚 Graduanda em ADS full-stack e mobile pela PUCRS;
 - 📌 Entuasiasta das comunidades digitais compostas por mulheres em tech.
-
-<img align="right" width="350px" src="https://user-images.githubusercontent.com/105956403/192107569-dbd57f3c-59a2-4951-97ef-162d56a31d32.svg" >
-
 <br>
-
-☕ Boas conexões e uma xícara caprichada de café (sem açúcar), por favor. 
 
 ## Contatos
 <a href="https://www.linkedin.com/in/anabsantoss/" target="_blank">
 <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo" />
 <a href = "mailto:anabia200113@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank" height="35"></a>
 
-## Techs
-<!--
-<div style="display: inline_block">
- 
-  <img align="center" alt="logoJs" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="logoReact" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
--->
+## <img align="center" src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="35"/> Techs
+
 <div style="display: inline_block">
   <img align="center" alt="Rafa-Js" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg">
   <img align="center" alt="Rafa-Python" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-plain-wordmark.svg">
@@ -31,9 +22,3 @@
 </div>  
 
 <br><br><br><br>
-  
-<!--  <div align="center">
-  <a href="https://github.com/Scarlatt-luz">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anabiax&layout=compact&langs_count=7&theme=cobalt"/>
-</div> -->
-
