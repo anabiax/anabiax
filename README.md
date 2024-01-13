@@ -4,7 +4,6 @@
 - 💻 Participante do bootcamp Full Stack Java da Generation Brasil;
 - 📚 Graduanda em ADS full-stack e mobile pela PUCRS;
 - 📌 Entuasiasta das comunidades digitais compostas por mulheres em tech.
-<br>
 
 ## Contatos
 <a href="https://www.linkedin.com/in/anabsantoss/" target="_blank">
